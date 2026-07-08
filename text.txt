@@ -1,1 +1,2 @@
 this is file to pulled up
+this is is pulled from Remote To Local
